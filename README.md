@@ -1,2 +1,2 @@
 ## To-Do-List
-ESD FA 1 Task
+### A JavaScript ToDo App with Local Storage.
